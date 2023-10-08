@@ -2,8 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/GreatHavoc/Android-Text-Reader)
 ![GitHub contributors](https://img.shields.io/github/contributors/GreatHavoc/Android-Text-Reader)
-![GitHub stars](https://img.shields.io/github/stars/GreatHavoc/Android-Text-Reader?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GreatHavoc/Android-Text-Reader?style=social)
+![GitHub stars](https://img.shields.io/github/stars/GreatHavoc/Android-Text-Reader)
+![GitHub forks](https://img.shields.io/github/forks/GreatHavoc/Android-Text-Reader)
 
 Welcome to the Android OCR Text Recognition App repository! This Flutter-based Android application leverages Google's AIML kit module to perform optical character recognition (OCR) directly on your mobile device. With this app, you can easily capture text from images using your smartphone's camera, making it a powerful tool for digitizing printed or handwritten text.
 
